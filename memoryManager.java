@@ -12,7 +12,7 @@ public class memoryManager {
     public static void main(String[] args) {
         money = 100;
         play = "y";
-        int[] numbers = new int[x]
+        int[] numbers = new int[x];
         memoryManager gerald = new memoryManager();
         gerald.memManager();
     }
